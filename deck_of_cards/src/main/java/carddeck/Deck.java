@@ -142,22 +142,5 @@ public class Deck{
       
       return retStr;
    }
-   
-   
-   public static void main (String []args){
-    
-      Deck a = new Deck();
-      //a.shuffle();
-      
-      for(int i=0;i<13;i++){
-         Card b = a.dealOneCard();
-         System.out.println(b.toString() );
-      
-      
-      }
-      System.out.println(  "\n" +a.toString());
-      
-   }
-   
-   
+  
 }
