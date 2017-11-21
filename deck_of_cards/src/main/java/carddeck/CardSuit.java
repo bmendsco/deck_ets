@@ -1,6 +1,6 @@
 /**
 *  
-* Suit - This Enum type will define a CardSuit
+* CardSuit - This Enum type will define a CardSuit
 * @author Benedict Mendscole
 * 
 */
