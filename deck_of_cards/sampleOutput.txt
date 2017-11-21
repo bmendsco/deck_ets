@@ -1,4 +1,5 @@
-Task :run
+Shuffled deck 
+
 Deck Size: 52
 TWO of CLUBS
 JACK of CLUBS
@@ -52,6 +53,8 @@ KING of HEARTS
 NINE of SPADES
 FIVE of CLUBS
 EIGHT of HEARTS
+
+Half of shuffled deck dealt.
 
 Deck Size: 26
 KING of CLUBS
