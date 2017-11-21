@@ -1,5 +1,5 @@
 # deck_ets
-Deck of Cards program.
+Deck of Cards program. (Build with Gradle)
 
 Contains
 
